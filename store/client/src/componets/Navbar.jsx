@@ -105,7 +105,6 @@ const Navbar = () => {
         </Left>
         <Center>
           <StyledLink to="/">
-            <Logo>Madgdalena</Logo>
           </StyledLink>
         </Center>
         <Right>
